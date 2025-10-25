@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>A:\Programacion\Proyectos Java\Peliculas\out\artifacts\Peliculas_jar\Peliculas.jar</jar>
+  <outfile>C:\Users\leank\Desktop\MovieList\MovieList.exe</outfile>
+  <errTitle>Error de Java</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\leank\Downloads\film-strip-roll-movie-retro_108506.ico</icon>
+  <singleInstance>
+    <mutexName>MovieListApp</mutexName>
+    <windowTitle>MovieList</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>jre</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>21</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0</txtFileVersion>
+    <fileDescription>TestApp</fileDescription>
+    <copyright>Leandro Guia</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0</txtProductVersion>
+    <productName>Movie List App</productName>
+    <companyName>Leandro Guia</companyName>
+    <internalName>MovieListApp</internalName>
+    <originalFilename>Movies.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
